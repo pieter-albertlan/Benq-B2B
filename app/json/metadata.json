@@ -1,0 +1,41 @@
+{
+	"home":{
+		"title":"Benq - Home",
+		"description":"Benq - Home"
+	},
+	"about":{
+		"title":"Benq - About",
+		"description":"Benq - About"
+	},
+	"features":{
+		"title":"Benq - Features",
+		"description":"Benq - Features"
+	},
+	"features_eye_care":{
+		"title":"Benq - Features Best Viewing",
+		"description":"Benq - Features"
+	},
+	"features_best_viewing":{
+		"title":"Benq - Features Best Viewing",
+		"description":"Benq - Features"
+	},
+	"features_dual_ifp":{
+		"title":"Benq - Features Dual IFP",
+		"description":"Benq - Features"
+	},
+	"features_ease_of_use":{
+		"title":"Benq - Features Ease of Use",
+		"description":"Benq - Features"
+	},
+	"features_open_platform":{
+		"title":"Benq - Features Open Platform",
+		"description":"Benq - Features"
+	},
+	"features_tco_friendly":{
+		"title":"Benq - Features TCO Friendly",
+		"description":"Benq - Features"
+	}
+}
+
+
+

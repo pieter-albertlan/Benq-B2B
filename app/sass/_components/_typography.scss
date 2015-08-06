@@ -1,0 +1,40 @@
+body{
+	font-family:'Gill Sans MT', ·L³n¥¿¶ÂÅé, Ariel, 'Microsoft YaHei', Verdana;
+}
+
+
+.h1{
+	font-size:48px;
+}
+.h2{
+	font-size:28px;
+	font-weight:normal;
+}
+.h3{
+	font-size:20px;
+}
+
+
+
+.h1, .h2, .h3, .h4, .h5, .h6{
+	margin-top:0;
+	line-height:1;
+
+	&.lowercase{
+		text-transform: none;
+	}
+
+	&.capitalize{
+		text-transform: capitalize;
+	}
+
+	&.white{
+		color:#fff;
+	}
+	&.black{
+		color:#000;
+	}
+	&.light{
+		font-weight:100;
+	}
+}

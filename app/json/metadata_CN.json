@@ -1,0 +1,52 @@
+{
+	"home":{
+		"title":"歐拔藍 - 數位廣告代理商",
+		"description":"我們是一間數位創意公司，設計和科技是我們的行銷利器，讓你的品牌全球傳動。"
+	},
+	"about":{
+		"title":"關於我們 - 歐拔藍數位創意",
+		"description":"從廣告策略、創意到執行，我們擁有來自世界各地的文化與才華，無論你在地球上哪一個角落，我們都能為你打造全新的可能。"
+	},
+	"work":{
+		"title":"作品集 - 歐拔藍數位創意",
+		"description":"深入了解我們的案例分析，看我們如何透過創意與技術替全球品牌解決行銷問題。"
+	},
+	"zenwatch":{
+		"title":"華碩ZenWatch[如影隨形]形象廣告案例分析 - 歐拔藍數位創意",
+		"description":"看我們如何運用廣告影片與產品形象網站來打造ASUS ZenWatch產品獨特魅力。",
+		"picture":"img/work/asus2-50pc.jpg"
+	},
+	"fonepad":{
+		"title":"華碩Fonepad[巨猩Campaign]廣告案例分析 - 歐拔藍數位創意",
+		"description":"看我們如何與好萊塢合作，打造病毒式影片與互動式網站來創造華碩 Fonepad的驚人行銷成效。",
+		"picture":"img/work/gorilla-50pc.jpg"
+	},
+	"seemoons":{
+		"title":"蓆夢思[帶你進入異想世界]品牌定位案例分析 - 歐拔藍數位創意",
+		"description":"See how we launched a rebranding campaign to help Seemoons to reposition in a saturated market.",
+		"picture":"img/work/seemoons-50pc.jpg"
+	},
+	"benq_purplenality":{
+		"title":"BenQ[與眾不同的紫色聖誕節]品牌形象活動案例分析 - 歐拔藍數位創意",
+		"description":"看我們如何做到讓企業內部的小活動到迅速風迷大眾。",
+		"picture":"img/work_item/benq_purplenality.jpg"
+	},
+	"asus":{
+		"title":"華碩[追尋無與倫比]廣告案例分析 - 歐拔藍數位創意",
+		"description":"看我們如何打造華碩的多元產品發展、一致品牌精神的廣告與設計。",
+		"picture":"img/work/asus-50pc.jpg"
+	},
+	"benq":{
+		"title":"BenQ[傳奇就在細節中]廣告案例分析- 歐拔藍數位創意",
+		"description":"看我們如何透過廣告行銷來幫助BenQ成為電競產品的領導品牌。",
+		"picture":"img/work/benq-50pc.jpg"
+	},
+	"gigabyte":{
+		"title":"GigaByte[為遊戲而生]品牌形象案例分享- 歐拔藍數位創意",
+		"description":"看我們如何讓GigaByte一舉打入遊戲市場。",
+		"picture":"img/work/gigabyte-50pc.jpg"
+	}
+}
+
+
+

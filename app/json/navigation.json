@@ -1,0 +1,32 @@
+{
+
+	"main": 
+	{
+		"about": "About Benq",
+		"features": "Features",
+		"RPSeries": "RP Series",
+		"software": "Software",
+		"successStories": "Success Stories"
+	},
+
+	"sub":
+	{
+		"features":
+		{
+			"eyeCare": "Eye Care",
+			"bestViewing": "Best Viewing",
+			"dualIFP": "Dual IFP",
+			"easeOfUse": "Ease Of Use",
+			"openPlatform": "openPlatform",
+			"TCOFriendly": "TCO Friendly"
+		},
+
+		"rpSeries":
+		{
+
+		}
+	}
+}
+
+
+

@@ -1,0 +1,59 @@
+@import "_components/_variables";
+
+
+.navigation-top{
+
+	position: relative;
+	padding:35px 0 20px;
+
+	a{
+		color:#000;
+	}
+
+	.logo{
+
+		position: absolute;
+		top:20px;
+		left:20px;
+
+		width:96px;
+		height:52px;
+	}
+
+	.main-nav{
+
+		@include display-flex;
+		@include justify-content(center);	
+		margin-bottom:25px;
+		padding-left:120px;
+
+		a{
+			
+			margin:0 20px;
+			height:30px;
+			text-transform: uppercase;
+			font-size:18px;
+
+			&:hover, &.activated{
+				border-bottom:2px solid #000;
+
+			}
+
+		}
+
+	}
+
+
+	.sub-nav{
+
+		padding-left:100px;
+
+		a{
+
+			margin:0 20px;
+
+		}
+
+	}
+
+}

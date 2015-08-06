@@ -1,0 +1,46 @@
+@import "_libs/_normalize";
+@import "compass/css3/flexbox";
+
+@import "_components/_variables";
+@import "_components/_mixins";
+@import "_components/_buttons";
+@import "_components/_typography";
+@import "_components/_navigation-top";
+
+@import "_pages/_home";
+@import "_pages/_features";
+@import "_pages/_features-eye-care";
+@import "_pages/_features-best-viewing";
+@import "_pages/_features-dual-ifp";
+@import "_pages/_features-ease-of-use";
+@import "_pages/_features-open-platform";
+@import "_pages/_features-tco-friendly";
+
+.main{
+
+	width:100%;
+	margin:0 auto;
+	max-width:$width-max;
+	min-width:400px;
+
+	.view{
+		padding:0 20px;
+	}
+
+	.icon{
+		background-size:100% 100%;
+	}
+
+}
+
+
+
+.height-sniffer{
+
+	position: fixed;
+	bottom:0;		
+	//width:21px;
+	height:100%;
+	background:#ff0000;
+
+}
